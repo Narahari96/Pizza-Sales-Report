@@ -37,3 +37,5 @@ How to Run To view the dashboard:
 Download Tableau or open Tableau Public.
 Clone this repository to your local machine.
 Open the .twbx file in Tableau.
+
+Tableau Public Link: https://public.tableau.com/app/profile/narahari.naik1750/viz/Pizza_Sales_17279645311030/Dashboard1?publish=yes
